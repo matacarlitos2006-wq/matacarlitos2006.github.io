@@ -65,3 +65,15 @@ body {
   font-size: 0.9rem;
   background: #f1f1f1;
 }
+
+.top-bar {
+  background-color: #333; /* dark background */
+  color: white;
+  text-align: center; /* center the text */
+  padding: 15px 0; /* space inside the bar */
+  position: fixed; /* stays at the top */
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+}

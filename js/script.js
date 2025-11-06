@@ -6,7 +6,6 @@
   console.log('Lead Offer:', leadOffer);
 
   if (funnel === '75off' && leadOffer === '75off') {
-    // maybe show a special badge or modal
     alert('Welcome! You have the 75% off special offer!');
   }
 })();

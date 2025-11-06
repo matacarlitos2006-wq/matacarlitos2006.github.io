@@ -54,7 +54,7 @@ body {
 .feature {
   background: #f9f9f9;
   border: 1px solid #ddd;
-  padding: 10rem;
+  padding: 5rem;
   flex: 1 1 300px;
   text-align: center;
 }

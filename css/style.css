@@ -67,13 +67,26 @@ body {
 }
 
 .top-bar {
-  background-color: #333; /* dark background */
+  background-color: #333; 
   color: white;
-  text-align: center; /* center the text */
-  padding: 15px 0; /* space inside the bar */
-  position: fixed; /* stays at the top */
+  text-align: center; 
+  padding: 15px 0; 
+  position: fixed; 
   top: 0;
   left: 0;
   width: 100%;
   z-index: 1000;
 }
+
+.top-bar a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+  font-size: 16px;
+  transition: color 0.3s;
+}
+
+ .top-bar a:hover {
+   color: #00bcd4; 
+ }

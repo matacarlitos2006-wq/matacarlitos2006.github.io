@@ -90,3 +90,9 @@ body {
  .top-bar a:hover {
    color: #00bcd4; 
 }
+.Contact_pl {
+  background: #e8fc03;
+  color: red;
+  text-align: center;
+  padding: 4rem 2rem;
+}

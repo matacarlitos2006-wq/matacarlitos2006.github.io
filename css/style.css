@@ -96,3 +96,12 @@ body {
   text-align: center;
   padding: 4rem 2rem;
 }
+.Contact_pl h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.Contact_pl p {
+  font-size: 1rem;
+  margin-bottom: 2rem;
+}

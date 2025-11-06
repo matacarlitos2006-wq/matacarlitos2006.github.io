@@ -13,8 +13,8 @@ body {
 }
 
 .hero {
-  background: #222;
-  color: #e8fc03;
+  background: #e8fc03;
+  color: red;
   text-align: center;
   padding: 4rem 2rem;
 }

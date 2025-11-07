@@ -109,3 +109,7 @@ body {
 .real {
 	text-align: left;
 }
+
+.personal {
+	text-align: right;
+}

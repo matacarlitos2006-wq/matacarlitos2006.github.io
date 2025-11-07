@@ -105,3 +105,8 @@ body {
   font-size: 1rem;
   margin-bottom: 2rem;
 }
+
+.Message {
+  width: 200px; 
+  height: 40px; 
+}

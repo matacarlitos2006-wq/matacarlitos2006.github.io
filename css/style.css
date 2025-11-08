@@ -64,6 +64,14 @@ body {
   text-align: center;
 }
 
+.service h1 {
+	text-align: center;
+}
+
+.service_f {
+	
+}
+
 .footer {
   text-align: center;
   padding: 2rem;

@@ -141,3 +141,36 @@ body {
 .personal {
 	text-align: right;
 }
+
+.search-container {
+  position: right;
+  width: 300px;
+}
+
+.search-bar {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.dropdown {
+  position: absolute;
+  width: 100%;
+  background: white;
+  border: 1px solid #ccc;
+  border-top: none;
+  z-index: 100;
+}
+
+.dropdown div {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.dropdown div:hover {
+  background: #f0f0f0;
+}
+
+.hidden {
+  display: none;
+}

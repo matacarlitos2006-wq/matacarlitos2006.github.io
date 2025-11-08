@@ -4,9 +4,7 @@ body, h1, h2, p, a {
   text-decoration: none;
   color: inherit;
 }
-body {
-    background-color: black;
-}
+
 body {
   font-family: Arial, sans-serif;
   line-height: 1.5;

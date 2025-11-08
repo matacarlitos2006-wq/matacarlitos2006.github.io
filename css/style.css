@@ -16,6 +16,7 @@ body {
   	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLyO5qZwGZDXFyyageWPYDrJ6LTbex9_xq6g&s");
   	background-position: center;
   	background-repeat: no-repeat;
+	background-size: cover;
   	color: red;
   	text-align: center;
   	padding: 4rem 2rem;

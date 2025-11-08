@@ -13,10 +13,12 @@ body {
 }
 
 .hero {
-  background: #e8fc03;
-  color: red;
-  text-align: center;
-  padding: 4rem 2rem;
+  	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLyO5qZwGZDXFyyageWPYDrJ6LTbex9_xq6g&s");
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	color: red;
+  	text-align: center;
+  	padding: 4rem 2rem;
 }
 
 .hero h1 {

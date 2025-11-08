@@ -48,6 +48,10 @@ body {
   background: #d03a0f;
 }
 
+.about_t h1 {
+	text-align: center;
+}
+
 .features {
   display: flex;
   flex-wrap: wrap;
